@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launcher",
+            "request": "launch",
+            "mainClass": "Launcher",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        },
+        {
+            "type": "java",
+            "name": "Launcher",
+            "request": "launch",
+            "mainClass": "Launcher",
+            "projectName": "ics4-fpt-semester-1-2023-2024-Faruqui-Hamza_fb79061f"
+        },
+        {
+            "type": "java",
+            "name": "PlayMusic",
+            "request": "launch",
+            "mainClass": "PlayMusic",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        },
+        {
+            "type": "java",
+            "name": "playMusic",
+            "request": "launch",
+            "mainClass": "playMusic",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        },
+        {
+            "type": "java",
+            "name": "AppLauncher",
+            "request": "launch",
+            "mainClass": "AppLauncher",
+            "projectName": "ics4-fpt-semester-1-2023-2024-Faruqui-Hamza_fb79061f"
+        },
+        {
+            "type": "java",
+            "name": "AppLauncher",
+            "request": "launch",
+            "mainClass": "src.AppLauncher",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        },
+        {
+            "type": "java",
+            "name": "AppLauncher",
+            "request": "launch",
+            "mainClass": "AppLauncher",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        },
+        {
+            "type": "java",
+            "name": "WeatherAppGUI",
+            "request": "launch",
+            "mainClass": "WeatherAppGUI",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GamePanel",
+            "request": "launch",
+            "mainClass": "GamePanel",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ics4-fpt-semester-1-2023-2024-HamzaFaruqui15_b8317e69"
+        }
+    ]
+}

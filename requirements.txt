@@ -1,0 +1,26 @@
+Requirements for Weather App to function:
+
+json-simple-1.1.1.jar library package from the internet
+Link to download: https://code.google.com/archive/p/json-simple/downloads
+
+All the .png images used in this app for the weather icons:
+clear.png(sunny weather icon)
+cloudy.png(cloudy weather icon)
+humidity.png(humidity weather icon)
+rain.png(rainy weather icon)
+search.png(searh button icon)
+snow.png(snow weather icon)
+windspeed.png(windspeed weather icon)
+precipitation.png(precipitation weather icon)
+Dropbox link to download: https://www.dropbox.com/scl/fo/ztfymemevrljj54np81gd/h?rlkey=4faytdh5jid0oh1wfvb4jr0gf&dl=0
+
+All the .wav sound effects used in this app for the weather sound effects:
+birds.wav(birds sounds effects)
+ice.wav(icy sound effects)
+rain.wav(rainy sound effects)
+wind.wav(windy sound effects)
+Dropbox link to download: https://www.dropbox.com/scl/fo/ztfymemevrljj54np81gd/h?rlkey=4faytdh5jid0oh1wfvb4jr0gf&dl=0
+
+APIs used for this assignment(bonus):
+GeoLocation API Link: https://open-meteo.com/en/docs/geocoding-api
+Weather Forecast API: https://open-meteo.com/en/docs#latitude=33.767&longitude=-118.1892
