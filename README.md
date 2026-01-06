@@ -25,3 +25,9 @@
 #### Current date and time from when a search was last made is also displayed on the GUI
 #### Different weather sound effects/music used depending on the the current weather conditions
 
+## How to Run
+This project requires an external JSON library.
+
+1. Ensure `json-simple` (or equivalent) is included in the classpath.
+2. Compile and run `Launcher.java`.
+
